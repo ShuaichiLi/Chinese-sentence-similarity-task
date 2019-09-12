@@ -47,10 +47,9 @@ c.“花呗分期后逾期了如何还款”-- “花呗分期后逾期了哪里
 
 #### 解决方案
 
-- 1st [report](http://ceur-ws.org/Vol-2242/paper09.pdf)
-- 2nd [report](http://ceur-ws.org/Vol-2242/paper10.pdf)
-- 4th [report](http://ceur-ws.org/Vol-2242/paper08.pdf)
-- 5th [report](http://ceur-ws.org/Vol-2242/paper11.pdf)
+- 6th [code](https://github.com/qrfaction/paipaidai)
+- 9th [report](https://blog.csdn.net/u012891055/article/details/86624033)
+- 12th [report](https://www.jianshu.com/p/827dd447daf9) [code](https://github.com/LittletreeZou/Question-Pairs-Matching)
 
 
 ### [CHIP 2018 task2](https://www.biendata.com/competition/chip2018/)
@@ -61,11 +60,9 @@ c.“花呗分期后逾期了如何还款”-- “花呗分期后逾期了哪里
 
 #### 解决方案
 
-- 6th [code](https://github.com/qrfaction/paipaidai)
-- 9th [report](https://blog.csdn.net/u012891055/article/details/86624033)
-- 12th [report](https://www.jianshu.com/p/827dd447daf9) [code](https://github.com/LittletreeZou/Question-Pairs-Matching)
-
-
+- 1st [report](http://www.sohu.com/a/336158389_787107)
+- 6th [report](https://linux.ctolib.com/TianyuZhuuu-CHIP2018.html)
+- 9th [report](https://blog.csdn.net/cuihuijun1hao/article/details/84554012)
 
 
 To be continued...

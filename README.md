@@ -60,9 +60,9 @@ c.“花呗分期后逾期了如何还款”-- “花呗分期后逾期了哪里
 
 #### 解决方案
 
-- 1st [report](file:///CHIP2018_top3/1st_team_DUTIR.pdf)
-- 2nd [report](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/2nd%20team_deadline%20.pptx)
-- 3rd [report](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/3rd%20team_chip2018-%E6%B9%96%E4%BA%BA%E6%80%BB%E5%86%A0%E5%86%9B%40InplusLab.pptx)
+- 1st [report](<https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/1st_team_DUTIR.pdf>)
+- 2nd [report](<https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/2nd_team_deadline%20.pdf>)
+- 3rd [report](<https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/3rd_team_chip2018-%E6%B9%96%E4%BA%BA%E6%80%BB%E5%86%A0%E5%86%9B%40InplusLab.pdf>)
 - 6th [report](https://linux.ctolib.com/TianyuZhuuu-CHIP2018.html)
 - 9th [report](https://blog.csdn.net/cuihuijun1hao/article/details/84554012)
 

@@ -2,6 +2,18 @@
 中文问题句子相似度计算
 ## 相关比赛
 
+###  [基于Adversarial Attack的问题等价性判别比赛](https://www.biendata.com/competition/2019diac/)
+
+#### 赛题任务描述
+
+> 虽然近年来智能对话系统取得了长足的进展，但是针对专业性较强的问答系统（如法律、政务等），如何准确的判别用户的输入是否为给定问题的语义等价问法仍然是智能问答系统的关键。举例而言，**“市政府管辖哪些部门？”**和**“哪些部门受到市政府的管辖？”**可以认为是语义上*等价*的问题，而**“市政府管辖哪些部门？”**和**“市长管辖哪些部门？”**则为不等价的问题。
+>
+> 针对问题等价性判别而言，除去系统的*准确性*外，系统的*鲁棒性*也是很重要、但常常被忽略的一点需求。举例而言，虽然深度神经网络模型在给定的训练集和测试集上常常可以达到满意的准确度，但是对测试集合的稍微改变（Adversarial Attack）就可能导致整体准确度的大幅度下降（一些相关文献综述可见https://arxiv.org/pdf/1902.07285.pdf和https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00254）。
+
+#### 解决方案
+
+> 参考该仓库[WenRichard/DIAC2019-Adversarial-Attack-Share](https://github.com/WenRichard/DIAC2019-Adversarial-Attack-Share)
+
 ### [CHIP 2019 task2](https://biendata.com/competition/chip2019/)
 
 #### 赛题任务描述

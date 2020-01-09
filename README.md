@@ -14,9 +14,9 @@
 
 #### 解决方案
 
-- 1st report
-- 2nd report
-- 3rd report
+- 1st [report](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC1%E5%90%8D-%E5%9F%BA%E4%BA%8EBERT%E4%B8%8E%E6%8F%90%E5%8D%87%E6%A0%91%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%AD%E4%B9%89%E5%8C%B9%E9%85%8D%E6%96%B9%E6%B3%95-wzm.pptx)
+- 2nd [report](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC2%E5%90%8D-%EF%BC%88upside-down%E5%9B%A2%E9%98%9F%EF%BC%89%E5%B9%B3%E5%AE%89%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80%E7%96%BE%E7%97%85%E9%97%AE%E7%AD%94%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E6%AF%94%E8%B5%9B-%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)
+- 3rd [report](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC3%E5%90%8D-CHIPS_%E4%BB%BB%E5%8A%A1%E4%BA%8C_%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)
 - A2B4 [code](https://github.com/woaiwwc/chip2019_task2)
 - A9B7 [code](https://github.com/ZhengZixiang/chip2019_task2_question_pairs_matching)
 - unknown [code](https://github.com/jacky5124/CHIP2019)

@@ -1,7 +1,6 @@
 # Chinese sentence similarity
 中文文本相似度计算
 
-[toc]
 ## 相关比赛
 
 ###  [天池“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)
